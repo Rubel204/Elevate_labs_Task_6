@@ -10,3 +10,11 @@ Sales Trend Analysis Using Aggregations
 5.	Most Preferred Payment Method 
 6.	Highest  Total Unit price
 
+## Tools used:
+- MySQL Workbench
+
+### Author
+Shiv Kumar Paul
+
+### Linkedin Profile: www.linkedin.com/in/shiv-kumar-paul666
+
